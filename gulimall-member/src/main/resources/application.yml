@@ -2,7 +2,11 @@ spring:
   datasource:
     username: root
     password: root
+<<<<<<< HEAD
     url: jdbc:mysql://192.168.56.102:3306/gulimall_ums
+=======
+    url: jdbc:mysql://#:3306/gulimall_ums
+>>>>>>> origin/main
     driver-class-name: com.mysql.cj.jdbc.Driver
   application:
     name: gulimall-member
